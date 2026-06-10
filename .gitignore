@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.env
+.ipynb_checkpoints/
+
+# Java
+*.class
+out/
+bin/
+*.jar
+
+# Node
+node_modules/
+npm-debug.log
+
+# Misc
+*.log
